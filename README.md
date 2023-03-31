@@ -1,6 +1,6 @@
 # cms
 
-Canteen Manamgement System
+Canteen Management System
 
 ## Getting Started
 
